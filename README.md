@@ -31,7 +31,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=luisFerHerna&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=luisFerHerna&theme=radical&hide_border=true)
+![](https://streak-stats.demolab.com/?user=luisFerHerna&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luisFerHerna&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🚀 Proyecto Colaborativo Destacado:
